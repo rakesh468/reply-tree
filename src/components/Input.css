@@ -1,0 +1,18 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  background-color: rgb(209, 204, 204);
+}
+.sub-container {
+  display: flex;
+  justify-content: space-between;
+}
+.list-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: space-between;
+}
